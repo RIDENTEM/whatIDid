@@ -8,3 +8,5 @@ but I have been documenting some of my memories that would die with me, and it's
 8/5/2019: Did some cleanup with See no Evil, got some work ahead of me.
 8/6/2019: Worked on See no Evil and did a bit of memories in the Magnum Opus
 8/7/2019: Did some bug fixing on See no Evil
+8/8/2019: Did more fixing with the time manipulation in See no Evil
+8/9/2019: Did more bug fixing with See no Evil
