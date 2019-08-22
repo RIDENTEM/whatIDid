@@ -21,3 +21,4 @@ but I have been documenting some of my memories that would die with me, and it's
 8/18/2019: I spent the entire day in Brooklyn helping Jordan move in
 8/19/2019: Looked a little bit into Visual Studio to learn some more tricks and familiarize myself with it
 8/20/2019: Looked into Visual Studios some more and also researched how good horror games are made
+8/21/2019: Worked on the tutorial for See no Evil a little, I have to look back at my code and re-read most of it
