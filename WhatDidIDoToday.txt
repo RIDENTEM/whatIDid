@@ -27,3 +27,4 @@ but I have been documenting some of my memories that would die with me, and it's
 8/24/2019: Published my mod for Darkest Dungeon
 8/25/2019: Tweaked first mod and published a new mod for the Brigand Vvulf
 8/26/2019: Did some research into the possibility of making Locoest Roco, and am starting production on the mod
+8/27/2019: Did a programmers test for Everi
