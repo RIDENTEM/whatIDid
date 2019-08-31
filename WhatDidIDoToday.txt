@@ -30,3 +30,4 @@ but I have been documenting some of my memories that would die with me, and it's
 8/27/2019: Did a programmers test for Everi
 8/28/2019: Worked on Locoest Roco and began setting up the AI
 8/29/2019: Applied for jobs and retouched up my resume, also looked a bit into DD modding
+8/30/2019: Putting aside my personal projects for now to focus on C++ and Unreal Engine research
