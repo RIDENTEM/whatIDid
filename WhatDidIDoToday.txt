@@ -33,3 +33,4 @@ but I have been documenting some of my memories that would die with me, and it's
 8/30/2019: Putting aside my personal projects for now to focus on C++ and Unreal Engine research
 8/31/2019: Watched some Unreal Engine tutorials on the menu tabs and such
 9/1/2019: Watched more UE tutorials
+9/2/2019: Looked at like one UE tutorial video
