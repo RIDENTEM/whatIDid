@@ -34,3 +34,4 @@ but I have been documenting some of my memories that would die with me, and it's
 8/31/2019: Watched some Unreal Engine tutorials on the menu tabs and such
 9/1/2019: Watched more UE tutorials
 9/2/2019: Looked at like one UE tutorial video
+9/3/2019: Looked up some C++ coding stuff and trying to fix up some UE issues
