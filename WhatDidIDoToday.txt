@@ -37,3 +37,4 @@ but I have been documenting some of my memories that would die with me, and it's
 9/3/2019: Looked up some C++ coding stuff and trying to fix up some UE issues
 9/4/2019: Looked at some more C++ stuff read an article and finally got Unreal open to work on stuff, trying to setup VS for it
 9/5/2019: Read a little bit and coded a bit more for UE still running into problems need to fix on VS
+9/6/2019: Read a some Gamasutra articles
