@@ -39,3 +39,4 @@ but I have been documenting some of my memories that would die with me, and it's
 9/5/2019: Read a little bit and coded a bit more for UE still running into problems need to fix on VS
 9/6/2019: Read a some Gamasutra articles
 9/7/2019: Read up on level design for melee games 
+9/8/2019: Read up on Unity addressables. Have to focus on one thing at a time
