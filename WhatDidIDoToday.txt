@@ -43,3 +43,4 @@ but I have been documenting some of my memories that would die with me, and it's
 9/9/2019: Researched some C++ concepts to prepare for the GameU interview tomorrow
 9/10/2019: Did more reading on enemy and level design on Gamasutra
 9/11/2019: unreal
+9/12/2019: Worked on learning unreal more but somehow I still can't even do the basic tutorial the code keeps breaking
