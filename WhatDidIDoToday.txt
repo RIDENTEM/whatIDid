@@ -44,3 +44,5 @@ but I have been documenting some of my memories that would die with me, and it's
 9/10/2019: Did more reading on enemy and level design on Gamasutra
 9/11/2019: unreal
 9/12/2019: Worked on learning unreal more but somehow I still can't even do the basic tutorial the code keeps breaking
+9/13/2019: Got the Unreal quickstart to work, the problem was that there was an error in the code and the error log was 
+giving me a bunch of false errors.
