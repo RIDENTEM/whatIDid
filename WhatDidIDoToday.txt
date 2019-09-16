@@ -46,3 +46,5 @@ but I have been documenting some of my memories that would die with me, and it's
 9/12/2019: Worked on learning unreal more but somehow I still can't even do the basic tutorial the code keeps breaking
 9/13/2019: Got the Unreal quickstart to work, the problem was that there was an error in the code and the error log was 
 giving me a bunch of false errors.
+9/14/2019: Looked into Unreal some more and started on the throwback stuff
+9/15/2019: Worked more in Unreal and researched more on blueprints and the engine
