@@ -54,3 +54,4 @@ giving me a bunch of false errors.
 9/19/2019: Read up on UE for Unity developers still getting through that article
 9/20/2019: Started work on the child teaching materials
 9/21/2019: Worked all day on the materials for the curriculum and tried a voiceover and went 20 minutes and didn't finish
+9/22/2019: Worked on the Game-U curriculum test again. I have a decent take of the animation controls, now I am working on another one for programming and will send both to the guy at the end to prove my dedication to the assignment
