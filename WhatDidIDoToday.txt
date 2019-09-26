@@ -57,3 +57,4 @@ giving me a bunch of false errors.
 9/22/2019: Worked on the Game-U curriculum test again. I have a decent take of the animation controls, now I am working on another one for programming and will send both to the guy at the end to prove my dedication to the assignment
 9/23/2019: Finished up the teaching material for Game-U, now we wait
 9/24/2019: Looked into some more UE stuff, not really absorbing the information
+9/25/2019: I learned that Joe got dropped from colleges because he didn't do homework because he has trouble focusing
