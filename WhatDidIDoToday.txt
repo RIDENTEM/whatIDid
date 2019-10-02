@@ -62,3 +62,4 @@ giving me a bunch of false errors.
 9/27/2019: Setup Chronos finally on the infinity stones project and started work on that again
 9/28/2019: Did some sexy refactoring and putting the time stone stuff in it's own class because of Chronos things
 9/30/2019: Yesterday and today worked on the time manipulation stuff and started adding some UI feedback elements to make checking what powers are in use easier, mainly just using text
+10/1/2019: Worked on the infinity prototype, did a ton of refactoring with the input functionality and abstracted it into it's own script away from all the infinity power stuff. Definitely used that word right
