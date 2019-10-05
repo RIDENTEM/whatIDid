@@ -65,4 +65,4 @@ giving me a bunch of false errors.
 10/1/2019: Worked on the infinity prototype, did a ton of refactoring with the input functionality and abstracted it into it's own script away from all the infinity power stuff. Definitely used that word right
 10/2/2019: Worked on the magnum opus and added a few memories and dialogue
 10/3/2019: wORKed on the visual feedback for the stones and added a little bit of lighting effects to make them look good
-sdfsd
+10/4/2019: Today I worked on vfx and some time code on the infinity prototype
