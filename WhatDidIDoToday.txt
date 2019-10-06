@@ -66,3 +66,4 @@ giving me a bunch of false errors.
 10/2/2019: Worked on the magnum opus and added a few memories and dialogue
 10/3/2019: wORKed on the visual feedback for the stones and added a little bit of lighting effects to make them look good
 10/4/2019: Today I worked on vfx and some time code on the infinity prototype
+10/5/2019: Today I did some refactoring, solved bugs, and added some new powers to the infinity prototype and finally got the time manipulation to work for real, just need to tweak and polish it as needed
