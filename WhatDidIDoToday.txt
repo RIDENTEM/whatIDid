@@ -69,3 +69,4 @@ giving me a bunch of false errors.
 10/5/2019: Today I did some refactoring, solved bugs, and added some new powers to the infinity prototype and finally got the time manipulation to work for real, just need to tweak and polish it as needed
 10/6/2019: Jotted down a few memories and wrote some more story for the Magnum Opus and wrote a little bit of design
 10/7/2019: Moved a little bit of code around in the infinity prototype since the space stone has a power that isn't raycasted, and also worked on the UE4 throwback and got some grab ability to function through blueprinting
+10/8/2019: Worked on the UE4 throwback game got the throwing to work now I need to work on the collider to throw the ball back
