@@ -71,3 +71,4 @@ giving me a bunch of false errors.
 10/7/2019: Moved a little bit of code around in the infinity prototype since the space stone has a power that isn't raycasted, and also worked on the UE4 throwback and got some grab ability to function through blueprinting
 10/8/2019: Worked on the UE4 throwback game got the throwing to work now I need to work on the collider to throw the ball back
 10/9/2019: Worked with UE4 blueprints some more, got the ball to get thrown back over the wall but not at the angle I currently want
+10/10/2019: Today I worked on researching multiplayer in UE4 and put in a little bit into the project
