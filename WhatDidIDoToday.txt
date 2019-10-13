@@ -73,3 +73,4 @@ giving me a bunch of false errors.
 10/9/2019: Worked with UE4 blueprints some more, got the ball to get thrown back over the wall but not at the angle I currently want
 10/10/2019: Today I worked on researching multiplayer in UE4 and put in a little bit into the project
 10/11/2019: Worked on multiplayer prep for the throwback, need to research more UE4 basics
+10/12/2019: Forgot to update, worked more on the UE4 multiplayer stuff, reserached replication and got it to work sort of in the game but the client side player's projectile spawning doesn't seem to work correctly
