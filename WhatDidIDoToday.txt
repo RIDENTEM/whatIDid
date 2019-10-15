@@ -75,3 +75,4 @@ giving me a bunch of false errors.
 10/11/2019: Worked on multiplayer prep for the throwback, need to research more UE4 basics
 10/12/2019: Forgot to update, worked more on the UE4 multiplayer stuff, reserached replication and got it to work sort of in the game but the client side player's projectile spawning doesn't seem to work correctly
 10/13/2019: Fixing a bug with the networking stuff, not sure what is going on but the spawn point for the ball still won't rotate on the player gun for the client
+10/14/2019: Still working on a fix for the UE4 networking stuff, I feel like I am closer to what the actual problem is but I found that the gun doesn't rotate for the client. Also, the camera and sphere values do not change for the client at all, but somehow they can still look around
