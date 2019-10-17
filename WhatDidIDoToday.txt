@@ -77,3 +77,4 @@ giving me a bunch of false errors.
 10/13/2019: Fixing a bug with the networking stuff, not sure what is going on but the spawn point for the ball still won't rotate on the player gun for the client
 10/14/2019: Still working on a fix for the UE4 networking stuff, I feel like I am closer to what the actual problem is but I found that the gun doesn't rotate for the client. Also, the camera and sphere values do not change for the client at all, but somehow they can still look around
 10/15/2019: Today I just did a little bit of research, not a full hours worth I was too busy moving things and then i went to the gym for a bit
+10/16/2019: Today I mostly did moving and got distracted by Kitchen Nightmares and hotel hell, I tried to do a little bit of multiplayer research for UE4 but didn't get very far
