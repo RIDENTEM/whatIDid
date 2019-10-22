@@ -79,4 +79,5 @@ giving me a bunch of false errors.
 10/15/2019: Today I just did a little bit of research, not a full hours worth I was too busy moving things and then i went to the gym for a bit
 10/16/2019: Today I mostly did moving and got distracted by Kitchen Nightmares and hotel hell, I tried to do a little bit of multiplayer research for UE4 but didn't get very far
 10/17/2019: Did a little more multiplayer research today but not much. It looks like static meshes that are manipulated with a physics handle can't be replicated unless they already have a blueprint on them, but that doesn't sound right
-10/18/2019 - 10/19/2019: Did nothing, mostly focused on moving-related tasks
+10/18/2019 - 10/20/2019: Did nothing, mostly focused on moving-related tasks
+10/21/2019: Looked a bit more into multiplayer stuff with UE4, turns out an actor needs to be blueprinted to open up more replication options
