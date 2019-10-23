@@ -81,3 +81,4 @@ giving me a bunch of false errors.
 10/17/2019: Did a little more multiplayer research today but not much. It looks like static meshes that are manipulated with a physics handle can't be replicated unless they already have a blueprint on them, but that doesn't sound right
 10/18/2019 - 10/20/2019: Did nothing, mostly focused on moving-related tasks
 10/21/2019: Looked a bit more into multiplayer stuff with UE4, turns out an actor needs to be blueprinted to open up more replication options
+10/22/2019: Worked on the Magnum Opus, jotting down memories and a tiny bit of story
