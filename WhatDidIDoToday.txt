@@ -83,3 +83,4 @@ giving me a bunch of false errors.
 10/21/2019: Looked a bit more into multiplayer stuff with UE4, turns out an actor needs to be blueprinted to open up more replication options
 10/22/2019: Worked on the Magnum Opus, jotting down memories and a tiny bit of story
 10/23/2019: Worked on story for the Magnum Opus today and made a memory
+10/24/2019: Spent time with Jordan
