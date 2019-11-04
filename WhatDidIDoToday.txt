@@ -91,3 +91,4 @@ giving me a bunch of false errors.
 10/31/2019: Worked on an elevator pitch for the Magnum Opus, and drew another bit of design in the notebook
 11/1/2019: Worked a bit on the elevator pitch
 11/2/2019: Worked a little bit on the throwback, changed the grab point for the ball, and worked a bit with the level
+11/2/2019: Did a little work with UI in UE4 for the throwback, I need to figure outhow to search up a server and then take input in a text box and use it too
