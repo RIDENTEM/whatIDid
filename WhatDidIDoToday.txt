@@ -94,3 +94,4 @@ giving me a bunch of false errors.
 11/3/2019: Did a little work with UI in UE4 for the throwback, I need to figure outhow to search up a server and then take input in a text box and use it too
 11/4/2019: Did some work on the ui for throwback
 11/5/2019: Watched a super long tutorial for multiplayer, didn't implement anything it was so boring but I gotta follow it
+11/6/2019: Followed along with the multiplayer tutorial for the UE4 throwback project, got the game instance ready. For the next few days though I will be researching Pico-8 games and how to make them, since I have decided to join the tweetTweet jam starting soon
