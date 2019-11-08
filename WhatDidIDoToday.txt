@@ -95,3 +95,4 @@ giving me a bunch of false errors.
 11/4/2019: Did some work on the ui for throwback
 11/5/2019: Watched a super long tutorial for multiplayer, didn't implement anything it was so boring but I gotta follow it
 11/6/2019: Followed along with the multiplayer tutorial for the UE4 throwback project, got the game instance ready. For the next few days though I will be researching Pico-8 games and how to make them, since I have decided to join the tweetTweet jam starting soon
+11/7/2019: Bought Pico-8 and began researching how it works, got through a tutorial game and looked through the documentation. I am just going to keep going through the Lua-specific portions of it and what keywords are used to create games
