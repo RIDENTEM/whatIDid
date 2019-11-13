@@ -100,3 +100,4 @@ giving me a bunch of false errors.
 11/9/2019: Read up more on Pico-8 and started typing up a bit of code to prepare for the jam
 11/10/19: Researched more on Pico8 and got something I was working on for awhile to work correctly. The first step of many
 11/11/19: Today I got input working for the TweetTweetJam entry I have going, next I need to get the obstacles rotating and then collision working and I should have the game finished albeit going over the char count
+11/12/19: Got the rotation working for the obstacles
