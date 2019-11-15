@@ -101,3 +101,5 @@ giving me a bunch of false errors.
 11/10/19: Researched more on Pico8 and got something I was working on for awhile to work correctly. The first step of many
 11/11/19: Today I got input working for the TweetTweetJam entry I have going, next I need to get the obstacles rotating and then collision working and I should have the game finished albeit going over the char count
 11/12/19: Got the rotation working for the obstacles
+11/13/19: Worked on collision and got that sort of working
+11/14/19: Wored on various improvements for the jumper jam game, there are a few glaring bugs I need to take care of including collision, the endgame, and maybe improvements with the score
