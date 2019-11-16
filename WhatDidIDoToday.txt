@@ -103,3 +103,4 @@ giving me a bunch of false errors.
 11/12/19: Got the rotation working for the obstacles
 11/13/19: Worked on collision and got that sort of working
 11/14/19: Wored on various improvements for the jumper jam game, there are a few glaring bugs I need to take care of including collision, the endgame, and maybe improvements with the score
+11/15/19: Redid the collision, it looks like getting the pixel color won't work because of the line moving too fast and skipping pixels, so I am trying to figure out some math to calculate when the player is within the bounds of the previous frame x and current x
