@@ -104,3 +104,4 @@ giving me a bunch of false errors.
 11/13/19: Worked on collision and got that sort of working
 11/14/19: Wored on various improvements for the jumper jam game, there are a few glaring bugs I need to take care of including collision, the endgame, and maybe improvements with the score
 11/15/19: Redid the collision, it looks like getting the pixel color won't work because of the line moving too fast and skipping pixels, so I am trying to figure out some math to calculate when the player is within the bounds of the previous frame x and current x
+11/16/19: Worked more on the collision and figured out a much better way of doing it, somehow it took me two days to figure it out but it's in and it works completely and correctly. Now I have to cut down the char count by 1000
