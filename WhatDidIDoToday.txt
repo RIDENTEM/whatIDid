@@ -107,3 +107,4 @@ giving me a bunch of false errors.
 11/16/19: Worked more on the collision and figured out a much better way of doing it, somehow it took me two days to figure it out but it's in and it works completely and correctly. Now I have to cut down the char count by 1000
 11/17/19: Worked most of the day on finishing collision for windmill and refactoring the code. It took a long time, but I made it to just 559 characters using every letter of the alphabet
 11/18/19: Went back to work on the throwback, as soon as I am done with that I can move onto a different project. For today all I did was some menu stuff
+11/19/19: Added some UI for the menu, and deleted the duplicate copy of the project and took the work I did previously. 
