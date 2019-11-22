@@ -109,3 +109,4 @@ giving me a bunch of false errors.
 11/18/19: Went back to work on the throwback, as soon as I am done with that I can move onto a different project. For today all I did was some menu stuff
 11/19/19: Added some UI for the menu, and deleted the duplicate copy of the project and took the work I did previously. 
 11/20/19: Redid the game instance 
+11/21/19: Got the menu done, lobby scene doesn't load because there is no lobby
