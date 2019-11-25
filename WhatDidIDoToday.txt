@@ -112,3 +112,4 @@ giving me a bunch of false errors.
 11/21/19: Got the menu done, lobby scene doesn't load because there is no lobby
 11/22/19: Did a bit of work on the throwback setup some more UI
 11/23/19: Started work on a new game jam the oneButton jam, gonna be working in Pico8
+11/24/19: Worked a bit more on the climber game for the one button jam, started focusing too much on visuals before getting the base of the gameplay down first
