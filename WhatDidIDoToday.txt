@@ -115,3 +115,4 @@ giving me a bunch of false errors.
 11/24/19: Worked a bit more on the climber game for the one button jam, started focusing too much on visuals before getting the base of the gameplay down first
 11/25/19: Made some progress on movement and collision, still doesn't work quite how I want it to but it's at least something
 11/26/19: Worked more on the collision and jumping, I got something decent now I just have to solve a problem with the jumping and maybe rework the collision. I made a little bit of art for the mountain too, and I have an idea of how to do obstacles
+11/27/19: Worked on collision and obstacles. barely got the physics working i just need to tweak it
