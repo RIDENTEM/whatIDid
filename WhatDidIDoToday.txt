@@ -117,3 +117,4 @@ giving me a bunch of false errors.
 11/26/19: Worked more on the collision and jumping, I got something decent now I just have to solve a problem with the jumping and maybe rework the collision. I made a little bit of art for the mountain too, and I have an idea of how to do obstacles
 11/27/19: Worked on collision and obstacles. barely got the physics working i just need to tweak it
 11/28/19: Worked on collision, the obstacle appears to collide well with the player
+11/29/19: Worked on finishing touches to the game and published. That's two jams down, and the game plays alright for what it is
