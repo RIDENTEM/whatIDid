@@ -118,3 +118,4 @@ giving me a bunch of false errors.
 11/27/19: Worked on collision and obstacles. barely got the physics working i just need to tweak it
 11/28/19: Worked on collision, the obstacle appears to collide well with the player
 11/29/19: Worked on finishing touches to the game and published. That's two jams down, and the game plays alright for what it is
+11/30/19: Looked a bit into VBA and powerpoint to see if I should join the jam for it tomorrow
