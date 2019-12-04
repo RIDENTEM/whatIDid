@@ -119,3 +119,6 @@ giving me a bunch of false errors.
 11/28/19: Worked on collision, the obstacle appears to collide well with the player
 11/29/19: Worked on finishing touches to the game and published. That's two jams down, and the game plays alright for what it is
 11/30/19: Looked a bit into VBA and powerpoint to see if I should join the jam for it tomorrow
+12/1/19: Started the jam and came up with an idea
+12/2/19: Worked more on the jam and learned how collisions and events work in powerpoint
+12/3/19: Checked out some animations and looked into a timer system for the game
