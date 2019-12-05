@@ -122,3 +122,4 @@ giving me a bunch of false errors.
 12/1/19: Started the jam and came up with an idea
 12/2/19: Worked more on the jam and learned how collisions and events work in powerpoint
 12/3/19: Checked out some animations and looked into a timer system for the game
+12/4/19: Worked on the gameplay, can now complete a level and die
