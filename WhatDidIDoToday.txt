@@ -124,3 +124,4 @@ giving me a bunch of false errors.
 12/3/19: Checked out some animations and looked into a timer system for the game
 12/4/19: Worked on the gameplay, can now complete a level and die
 12/5/19: Finished up the final level and worked on the menu loop. Need to think about adding some flair, art or sfx
+12/6/19: Remade all the level obstacles because there was some issue with the hyperlinks, my guess was it had something to do with the storyboarded shape I made originally, so I just made three different ones instead. Also did a bit of VBA
