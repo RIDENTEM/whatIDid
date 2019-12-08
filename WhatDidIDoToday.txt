@@ -125,3 +125,4 @@ giving me a bunch of false errors.
 12/4/19: Worked on the gameplay, can now complete a level and die
 12/5/19: Finished up the final level and worked on the menu loop. Need to think about adding some flair, art or sfx
 12/6/19: Remade all the level obstacles because there was some issue with the hyperlinks, my guess was it had something to do with the storyboarded shape I made originally, so I just made three different ones instead. Also did a bit of VBA
+12/7/19: Finished the donut game and worked on finishing tweaks and publishing
