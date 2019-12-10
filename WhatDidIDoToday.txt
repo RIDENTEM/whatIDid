@@ -127,3 +127,4 @@ giving me a bunch of false errors.
 12/6/19: Remade all the level obstacles because there was some issue with the hyperlinks, my guess was it had something to do with the storyboarded shape I made originally, so I just made three different ones instead. Also did a bit of VBA
 12/7/19: Finished the donut game and worked on finishing tweaks and publishing
 12/8/19: Looked into what could be causing the ios problem fro Pico8 and I can't tell what it could be without an i device in front of me. Also got soundtoys working
+12/9/19: Got back into the infinity stones, and took a look at making a new shader for reality. I have a better idea of what I am doing as opposed to before after reading all those documents on shaders in the past
