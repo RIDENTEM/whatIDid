@@ -131,3 +131,4 @@ giving me a bunch of false errors.
 12/10/19: Did a little more work with the shader
 12/11/19: Worked on the shader and got it to work, revealing objects within the radius of a sphere, give or take a few units
 12/12/19: Just wrote a bit of code to expand the reality sphere radius
+12/13/19: Started a repo and art for climber
