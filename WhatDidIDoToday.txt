@@ -132,4 +132,5 @@ giving me a bunch of false errors.
 12/11/19: Worked on the shader and got it to work, revealing objects within the radius of a sphere, give or take a few units
 12/12/19: Just wrote a bit of code to expand the reality sphere radius
 12/13/19: Started a repo and art for climber
-12/14/19: worked more on art and did audio for about 10 seconds before realizing it sounded amazing
+12/14/19: Worked more on art and did audio for about 10 seconds before realizing it sounded amazing
+12/15/19: Did a ton of stuff with FGGS and a bit of work with audio on climber, not enough to commit anything worthwhile
