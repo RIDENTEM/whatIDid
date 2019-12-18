@@ -135,3 +135,4 @@ giving me a bunch of false errors.
 12/14/19: Worked more on art and did audio for about 10 seconds before realizing it sounded amazing
 12/15/19: Did a ton of stuff with FGGS and a bit of work with audio on climber, not enough to commit anything worthwhile
 12/16/19: Today I watched more FGGS lectures and took some notes
+12/17/19: Worked with fggs and a bit of pico8
