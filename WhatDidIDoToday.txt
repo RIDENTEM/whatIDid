@@ -136,3 +136,5 @@ giving me a bunch of false errors.
 12/15/19: Did a ton of stuff with FGGS and a bit of work with audio on climber, not enough to commit anything worthwhile
 12/16/19: Today I watched more FGGS lectures and took some notes
 12/17/19: Worked with fggs and a bit of pico8
+12/18/19: Worked on the climber and mainly worked with trying to understand how the camera works
+12/19/19: Worked on the camera again and got it to follow the player and the mountain to reorient based on player position
