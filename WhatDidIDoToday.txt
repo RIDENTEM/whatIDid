@@ -141,3 +141,6 @@ giving me a bunch of false errors.
 12/20/19: Did some research on a possibiity to rework collision
 12/21/19: Did a bit of debugging and structure for the project
 12/22/19: Did some research on tables in lua
+12/23/19: Looked at tables more
+12/24/19: tables
+12/25/19: FGGS adn tables
