@@ -147,3 +147,4 @@ giving me a bunch of false errors.
 12/26/19: worked on mountain
 12/27/19: Worked on some sprite manipulation, trying to fill in the mountain to texture it, it looks like I am gonna need to make separate sprites for the edges and for the base
 12/28/19: Worked a bit on the mountain, looked into sprites and base textures again
+12/29/19: Some sprite stuff
