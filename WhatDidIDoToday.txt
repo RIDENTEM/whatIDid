@@ -154,3 +154,5 @@ giving me a bunch of false errors.
 1/2/20: Worked a tad on the mountain and watched some FGGS
 1/3/20: Worked on mountain, testing out some experimental stuff with redrawing the mountain based on where the player is from the end position of the line they are on
 1/4/20: Still working on procedurally generating the mountain. Still plenty of work left to do, gotta figure out some math and logic for when to generate a new mountain
+1/5/20: Couldn't do much at the airport, but I did do a little reorganizing
+1/6/20: Reorganized more and explored some alternative experiments with the sprite drawing
