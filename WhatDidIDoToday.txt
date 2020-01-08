@@ -156,3 +156,4 @@ giving me a bunch of false errors.
 1/4/20: Still working on procedurally generating the mountain. Still plenty of work left to do, gotta figure out some math and logic for when to generate a new mountain
 1/5/20: Couldn't do much at the airport, but I did do a little reorganizing
 1/6/20: Reorganized more and explored some alternative experiments with the sprite drawing
+1/7/20: Did a bit of art and tried to understand how map() works, still don't really get it
