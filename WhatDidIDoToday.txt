@@ -158,3 +158,5 @@ giving me a bunch of false errors.
 1/6/20: Reorganized more and explored some alternative experiments with the sprite drawing
 1/7/20: Did a bit of art and tried to understand how map() works, still don't really get it
 1/8/20: Watched some fggs
+1/9/20:Watched some more fggs and did job stuff
+1/10/20: a little fggs
