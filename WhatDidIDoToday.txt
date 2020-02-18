@@ -196,3 +196,5 @@ giving me a bunch of false errors.
 2/13/20: fggs
 2/14/20: FGGS
 2/15/20: fggs
+2/16/20: fixes and improvements 
+2/17/20: Code reorganization, comments, and procedural generation
