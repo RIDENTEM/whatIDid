@@ -198,3 +198,4 @@ giving me a bunch of false errors.
 2/15/20: fggs
 2/16/20: fixes and improvements 
 2/17/20: Code reorganization, comments, and procedural generation
+2/18/20: Worked on the procedural generation, half of it works but I have decided to experiment with anchor technology to see if that gives better results
