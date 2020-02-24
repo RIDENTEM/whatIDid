@@ -203,3 +203,4 @@ giving me a bunch of false errors.
 2/20/20: finished the procedural generation
 2/21/20: programmer test
 2/22/20: test
+2/23/20: rock paths
