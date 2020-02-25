@@ -204,3 +204,4 @@ giving me a bunch of false errors.
 2/21/20: programmer test
 2/22/20: test
 2/23/20: rock paths
+2/24/20: more rock paths
