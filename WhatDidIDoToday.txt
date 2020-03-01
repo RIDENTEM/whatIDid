@@ -209,3 +209,4 @@ giving me a bunch of false errors.
 2/26/20: rock paths
 2/27/20: rock paths
 2/28/20: rock collision
+2/29/20: player movement
