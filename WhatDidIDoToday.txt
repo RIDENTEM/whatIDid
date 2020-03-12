@@ -219,3 +219,4 @@ giving me a bunch of false errors.
 3/7/20: Began work on the dust paths behind the player
 3/8/20: dust paths complete
 3/9/20: worked with art and sfx mostly
+3/10/20: Flat ground
