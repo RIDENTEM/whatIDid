@@ -224,3 +224,4 @@ giving me a bunch of false errors.
 3/12/20: flat ground
 3/13/20: flat ground
 3/14/20: more flat ground, I think I finished it up to a point where it's adequate
+3/15/20: Did some refactoring and fixed a bug. Also added a ton of comments and a little indenting
