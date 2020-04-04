@@ -243,3 +243,4 @@ giving me a bunch of false errors.
 3/31/20: more art for the forest
 4/1/20: finished up art for the forest and finished implementation, will need feedback
 4/2/20: added more characters and worked on fixing problems with the parallax scrolling
+4/3/20: added some art and did some product management
