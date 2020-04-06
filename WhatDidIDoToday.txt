@@ -245,3 +245,4 @@ giving me a bunch of false errors.
 4/2/20: added more characters and worked on fixing problems with the parallax scrolling
 4/3/20: added some art and did some product management
 4/4/20: did some more art and added a flat board for the flat ground and a different transparency color
+4/5/20: worked on getting the train in and also refactoring the dust spawner
