@@ -247,3 +247,4 @@ giving me a bunch of false errors.
 4/4/20: did some more art and added a flat board for the flat ground and a different transparency color
 4/5/20: worked on getting the train in and also refactoring the dust spawner
 4/6/20: Worked with collision and improvements to the particle spawner
+4/7/20: Worked on a bit of the particle spawner and bug fixes, as well as randomization for rock sprites. That may need to get optimized into something so I don't need individual rocks
