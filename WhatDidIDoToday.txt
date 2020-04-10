@@ -249,3 +249,4 @@ giving me a bunch of false errors.
 4/6/20: Worked with collision and improvements to the particle spawner
 4/7/20: Worked on a bit of the particle spawner and bug fixes, as well as randomization for rock sprites. That may need to get optimized into something so I don't need individual rocks
 4/8/20: Worked on the particle spawner as well as proper score display
+4/9/20: worked on research regarding rotation
