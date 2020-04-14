@@ -253,3 +253,4 @@ giving me a bunch of false errors.
 4/10/20: worked on rotation and an animation timer
 4/11/20: worked on animation timer, and some creation functions
 4/12/20: refactored obstacles and other refactoring tasks, test
+4/13/20: Technical interview
