@@ -255,3 +255,4 @@ giving me a bunch of false errors.
 4/12/20: refactored obstacles and other refactoring tasks, test
 4/13/20: Technical interview
 4/14/20: Worked on more major refactoring of the hero spawner
+4/15/20: refactored the hero spawner, it works such that the game doesn't crash anymore, so all glaring bugs appear to have been taken care of
