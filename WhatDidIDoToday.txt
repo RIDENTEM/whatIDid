@@ -256,3 +256,4 @@ giving me a bunch of false errors.
 4/13/20: Technical interview
 4/14/20: Worked on more major refactoring of the hero spawner
 4/15/20: refactored the hero spawner, it works such that the game doesn't crash anymore, so all glaring bugs appear to have been taken care of
+4/16/20: Did more refactoring, fixed the flat ground sliding issue but now it doesn't work exactly like it did before
