@@ -261,3 +261,4 @@ giving me a bunch of false errors.
 4/18/20: Fixed some problems with respawning the player and starting a new game, all that seems to work now there are just some minor problems with the background to take care of
 4/19/20: worked on personal branding
 4/20/20: personal branding
+4/21/20: personal branding finished and fixed bug with backgrounds
