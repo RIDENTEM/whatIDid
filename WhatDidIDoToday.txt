@@ -273,3 +273,5 @@ giving me a bunch of false errors.
 4/30/20: Promotional art
 5/1/20: worked on some music, and came up with a solution for the countdown gameover
 5/2/20: hw
+5/3/20: small bug
+5/4/20: Worked on the ui placement
