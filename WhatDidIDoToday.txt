@@ -275,3 +275,4 @@ giving me a bunch of false errors.
 5/2/20: hw
 5/3/20: small bug
 5/4/20: Worked on the ui placement
+5/5/20: rock stuff
