@@ -280,3 +280,7 @@ giving me a bunch of false errors.
 5/7/20: rocks
 5/8/20: admin and bug fixes
 5/9/20: bug fixes and rock stuff
+5/10/20: rocks done
+5/11/20: etc. bug fixes
+5/12/20: Working on music
+5/13/20: Still working on music
