@@ -287,3 +287,4 @@ giving me a bunch of false errors.
 5/14/20: worked knmmusic and steam
 5/15/20: Worked on the website, music, and some tm stuff
 5/16/20: Animation timers and flocks
+5/17/20: Worked on the flocks a bit and the train
