@@ -289,3 +289,4 @@ giving me a bunch of false errors.
 5/16/20: Animation timers and flocks
 5/17/20: Worked on the flocks a bit and the train
 5/18/20: Flocks and art stuff
+5/19/20: Art, comments, prep for multiple skaters
