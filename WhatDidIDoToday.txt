@@ -308,3 +308,5 @@ giving me a bunch of false errors.
 6/4/20: work
 6/5/20: WORK
 6/6/20: questionnaire
+6/7/20: some updating, lost the slide sfx so I got it back through a separate branch
+6/8/20: worked a little more on an intro
