@@ -318,3 +318,4 @@ giving me a bunch of false errors.
 6/14/20: Android build and reogr
 6/15/20: anroid build stopped working on release mode, added code for ads
 6/16/20: changed the website a bit more to prepare for the privacy policy
+6/17/20: Getting specific banner ads into the android studio app
