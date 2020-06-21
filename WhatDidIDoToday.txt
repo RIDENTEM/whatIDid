@@ -320,3 +320,5 @@ giving me a bunch of false errors.
 6/16/20: changed the website a bit more to prepare for the privacy policy
 6/17/20: Getting specific banner ads into the android studio app
 6/18/20: Researching data Admobs collects as well as trying to get the webview just right 
+6/19/20: Researching some of the games available in Roblox and Lua scripting
+6/20/20: Looking into more LUA scripting with Roblox
