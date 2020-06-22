@@ -322,3 +322,4 @@ giving me a bunch of false errors.
 6/18/20: Researching data Admobs collects as well as trying to get the webview just right 
 6/19/20: Researching some of the games available in Roblox and Lua scripting
 6/20/20: Looking into more LUA scripting with Roblox
+6/21/20: Did some more Lua scripting and tried to make a time stop effect, so far so good, need to add more stuff to it though
