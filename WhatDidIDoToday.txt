@@ -324,3 +324,4 @@ giving me a bunch of false errors.
 6/20/20: Looking into more LUA scripting with Roblox
 6/21/20: Did some more Lua scripting and tried to make a time stop effect, so far so good, need to add more stuff to it though
 6/22/20: Roblox
+6/23/20: Legal privacy policy
