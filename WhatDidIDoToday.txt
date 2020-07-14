@@ -344,3 +344,4 @@ giving me a bunch of false errors.
 7/10/20: a little game design and music
 7/11/20: a bit of music and some game design 
 7/12/20: did some game design
+7/13/20: more game design
