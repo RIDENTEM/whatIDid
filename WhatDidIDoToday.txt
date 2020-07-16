@@ -346,3 +346,4 @@ giving me a bunch of false errors.
 7/12/20: did some game design
 7/13/20: more game design
 7/14/20 game design
+7/15/20: game design
