@@ -356,3 +356,4 @@ giving me a bunch of false errors.
 7/22/20: game design
 7/23/20: character design
 7/24/20: some music
+7/25/20: more game design stuff
