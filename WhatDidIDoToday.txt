@@ -358,3 +358,4 @@ giving me a bunch of false errors.
 7/24/20: some music
 7/25/20: more game design stuff
 7/26/20: game design capstone, I created falling Stars
+7/27/20: game design 
