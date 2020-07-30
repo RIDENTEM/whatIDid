@@ -360,3 +360,4 @@ giving me a bunch of false errors.
 7/26/20: game design capstone, I created falling Stars
 7/27/20: game design 
 7/28/20: game design
+7/29/20: Looked into improving analytics and ads for stuff
