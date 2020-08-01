@@ -362,3 +362,4 @@ giving me a bunch of false errors.
 7/28/20: game design
 7/29/20: Looked into improving analytics and ads for stuff
 7/30/20: looked into UE4 a bit
+7/31/20: Did some level design on UE4
