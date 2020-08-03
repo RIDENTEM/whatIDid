@@ -364,3 +364,4 @@ giving me a bunch of false errors.
 7/30/20: looked into UE4 a bit
 7/31/20: Did some level design on UE4
 8/1/20: more level design on UE4
+8/2/20: a bit more level design
