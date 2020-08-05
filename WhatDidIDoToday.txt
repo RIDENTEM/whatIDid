@@ -366,3 +366,4 @@ giving me a bunch of false errors.
 8/1/20: more level design on UE4
 8/2/20: a bit more level design
 8/3/20: ue4 levele design
+8/4/20: ue4 level design
