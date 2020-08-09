@@ -370,3 +370,4 @@ giving me a bunch of false errors.
 8/5/20: Learning a little more about UE4
 8/6/20: Did some music
 8/7/20: Did some UE4 and freelancing stuff
+8/8/20: Did some UE4 and music
