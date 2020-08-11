@@ -372,3 +372,4 @@ giving me a bunch of false errors.
 8/7/20: Did some UE4 and freelancing stuff
 8/8/20: Did some UE4 and music
 8/9/20: Decided to end development on the music, and I fixed a bug
+8/10/20: Did some administrative duties and cleaned up theTrello board. also did some art and a bit of code to clean up and test
