@@ -374,3 +374,4 @@ giving me a bunch of false errors.
 8/9/20: Decided to end development on the music, and I fixed a bug
 8/10/20: Did some administrative duties and cleaned up theTrello board. also did some art and a bit of code to clean up and test
 8/11/20: Did some bug fixing in the game
+8/12/20: Worked on the game and added a time slow. It works but not quite as visible as I wanted it
