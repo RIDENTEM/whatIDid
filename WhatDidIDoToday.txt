@@ -375,3 +375,4 @@ giving me a bunch of false errors.
 8/10/20: Did some administrative duties and cleaned up theTrello board. also did some art and a bit of code to clean up and test
 8/11/20: Did some bug fixing in the game
 8/12/20: Worked on the game and added a time slow. It works but not quite as visible as I wanted it
+8/13/20: WORKED On the game and did a bit of updating and code cleanup, I want to wait for playtesting until I make further cosmetic decisions
