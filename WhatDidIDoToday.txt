@@ -377,3 +377,4 @@ giving me a bunch of false errors.
 8/12/20: Worked on the game and added a time slow. It works but not quite as visible as I wanted it
 8/13/20: WORKED On the game and did a bit of updating and code cleanup, I want to wait for playtesting until I make further cosmetic decisions
 8/14/20: did some bug fixing and started adding a little improvement for juiciness
+8/15/20: Fixed a bug, added a couple of improvements for juiciness and consistency
