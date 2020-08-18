@@ -379,3 +379,4 @@ giving me a bunch of false errors.
 8/14/20: did some bug fixing and started adding a little improvement for juiciness
 8/15/20: Fixed a bug, added a couple of improvements for juiciness and consistency
 8/16/20: Took care of some legal stuff
+8/17/20: did major refactoring
