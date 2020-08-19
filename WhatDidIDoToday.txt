@@ -380,3 +380,4 @@ giving me a bunch of false errors.
 8/15/20: Fixed a bug, added a couple of improvements for juiciness and consistency
 8/16/20: Took care of some legal stuff
 8/17/20: did major refactoring
+8/18/20: Begun work on the playtesting phase for the game
