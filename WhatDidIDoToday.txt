@@ -381,3 +381,4 @@ giving me a bunch of false errors.
 8/16/20: Took care of some legal stuff
 8/17/20: did major refactoring
 8/18/20: Begun work on the playtesting phase for the game
+8/19/20: A bit of UE4 and market research
