@@ -387,3 +387,4 @@ giving me a bunch of false errors.
 8/22/20: did some game design research
 8/23/20: Game design research
 8/24/20: did some more game design research and made an improvement to the game
+8/25/20: a bit more game design
