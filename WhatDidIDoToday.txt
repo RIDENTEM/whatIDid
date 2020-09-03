@@ -395,3 +395,4 @@ giving me a bunch of false errors.
 8/30/20:cread some more game design
 8/31/20: did more game design research
 9/1/20: More reading on game design
+9/2/20: read more game design
