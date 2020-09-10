@@ -402,3 +402,4 @@ giving me a bunch of false errors.
 9/6/20: read up more on game design
 9/7/20: read some more game design
 9/8/20: Worked on a little improvement for the game
+9/9/20: Added some shadows to the rocks and uncovered a couple of problems
