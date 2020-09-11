@@ -403,3 +403,4 @@ giving me a bunch of false errors.
 9/7/20: read some more game design
 9/8/20: Worked on a little improvement for the game
 9/9/20: Added some shadows to the rocks and uncovered a couple of problems
+9/10/20: Fixed the shadow issues and also added the new high score sfx
