@@ -407,3 +407,4 @@ giving me a bunch of false errors.
 9/11/20: Game design business stuff
 9/12/20: Made some improvements and bug fixes to the game
 9/13/20: Did some art and bug fixing
+9/14/20: Made a whole fade in/out effect
