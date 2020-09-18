@@ -410,3 +410,4 @@ giving me a bunch of false errors.
 9/14/20: Made a whole fade in/out effect
 9/15/20: Did some major refactoring on the fade in/out effect
 9/16/20: Put in a fade for main menu to game, and made some art improvements
+9/17/20: did some game design coursework
