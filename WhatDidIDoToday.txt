@@ -413,3 +413,4 @@ giving me a bunch of false errors.
 9/17/20: did some game design coursework
 9/18/20 more game design coursework
 9/19/20: A little bit of game design coursework and mostly art fixes
+9/20/20: Did some more art and code maintenance
