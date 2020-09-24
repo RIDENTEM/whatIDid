@@ -416,3 +416,4 @@ giving me a bunch of false errors.
 9/20/20: Did some more art and code maintenance
 9/21/20: Commented old code
 9/22/20: Trying to navigate Android Studio
+9/23/20: Reading up on game design
