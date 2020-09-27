@@ -419,3 +419,4 @@ giving me a bunch of false errors.
 9/23/20: Reading up on game design
 9/24/20: tried doing some more mobile stuff with Android Studio
 9/25/20: Did some business research
+9/26/20: Game design reading
