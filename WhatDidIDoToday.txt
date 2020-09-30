@@ -423,3 +423,4 @@ giving me a bunch of false errors.
 9/27/20: Did some more reading on game design
 9/28/20: Read up on game design some more
 9/29/20: Logged playtesting feedback and commented
+9/30/20: Extracted all relevant feedback into tasks and commented code
