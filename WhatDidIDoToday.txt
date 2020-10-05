@@ -427,3 +427,4 @@ giving me a bunch of false errors.
 10/1/20: Fixed some bugs, and art
 10/2/20: did some game design reading and some html stuff
 10/3/20: did some game design reading
+10/4/20: more game design reading and making a new build for the game
