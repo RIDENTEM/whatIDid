@@ -429,3 +429,4 @@ giving me a bunch of false errors.
 10/3/20: did some game design reading
 10/4/20: more game design reading and making a new build for the game
 10/5/20: did some mobile stuff and learned a bit of javascript
+10/6/20: Did some javascript, html searching, and more feedback gathering
