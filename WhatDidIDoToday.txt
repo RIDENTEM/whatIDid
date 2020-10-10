@@ -433,3 +433,4 @@ giving me a bunch of false errors.
 10/7/20: Did some feedback work and a bit of javascript
 10/8/20: Did some feedback, fixed some issues, and did some more javascript
 10/9/20: Did a bit of javascript and game design reading
+10/10/20: Did some coding and game design reading
