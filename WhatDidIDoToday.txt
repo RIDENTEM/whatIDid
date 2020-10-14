@@ -436,3 +436,4 @@ giving me a bunch of false errors.
 10/10/20: Did some coding and game design reading
 10/11/20: did a bit of coding and game design readup
 10/12/20: Did some readup on game design, and ripped out some old sfx to make room for the new stuff
+10/13/20: Did some coding on difficulty, and more sfx organization
