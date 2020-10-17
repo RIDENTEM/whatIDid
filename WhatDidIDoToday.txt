@@ -439,3 +439,4 @@ giving me a bunch of false errors.
 10/13/20: Did some coding on difficulty, and more sfx organization
 10/14/20: Worked on some art and got rid of old art that was not in use
 10/15/20: Did more art and added a score reset for outdated versions
+10/16/20: Worked on art and a couple improvements
