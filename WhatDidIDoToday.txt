@@ -441,3 +441,4 @@ giving me a bunch of false errors.
 10/15/20: Did more art and added a score reset for outdated versions
 10/16/20: Worked on art and a couple improvements
 10/17/20: Did some transferring on Steamworks and starting to setup the webpage for the game
+10/18/20: Found and fixed the final known bug in the game
