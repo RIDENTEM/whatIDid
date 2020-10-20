@@ -442,3 +442,4 @@ giving me a bunch of false errors.
 10/16/20: Worked on art and a couple improvements
 10/17/20: Did some transferring on Steamworks and starting to setup the webpage for the game
 10/18/20: Found and fixed the final known bug in the game
+10/19/20: Set the game up for feedback and finalized transferring the new music and sfx
