@@ -444,3 +444,4 @@ giving me a bunch of false errors.
 10/18/20: Found and fixed the final known bug in the game
 10/19/20: Set the game up for feedback and finalized transferring the new music and sfx
 10/20/20: Prepped some marketing materials and read up on game design
+10/21/20: Prepared some more of the marketing materials 
