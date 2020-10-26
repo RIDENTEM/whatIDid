@@ -448,3 +448,4 @@ giving me a bunch of false errors.
 10/22/20: Did a little more work with Javascript and learning the Html file, and I got quite far today
 10/23/20: Did some javascript learning
 10/24/20: Finally figured out this HTML file for good, and the mobile version is on track to a playable version
+10/25/20: Got a round of feedback and organized it into tasks
