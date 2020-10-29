@@ -451,3 +451,4 @@ giving me a bunch of false errors.
 10/25/20: Got a round of feedback and organized it into tasks
 10/26/20: Added a bunch of art fixes, did a bit of javascript, and admob stuff
 10/27/20: Added some art fixes, javascript
+10/28/20: Made some art improvements
