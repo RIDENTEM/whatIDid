@@ -454,3 +454,4 @@ giving me a bunch of false errors.
 10/28/20: Made some art improvements
 10/29/20: Read up on some more game design
 10/30/20: Finished Level Up
+10/31/20: Started learning Swift
