@@ -457,3 +457,4 @@ giving me a bunch of false errors.
 10/31/20: Started learning Swift
 11/1/20: Read up some more on Swift
 11/2/20: read some more on Swift
+11/3/20: Updated apps and software and read a bit more on xcode
