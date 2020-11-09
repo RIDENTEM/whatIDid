@@ -462,3 +462,4 @@ giving me a bunch of false errors.
 11/5/20: Worked on some refactoring and art movement in the spritesheet
 11/6/20: Read some more on Swift, also worked on a reverse transition
 11/7/20: Worked on a couple of tasks
+11/8/20: Did some art changes and fixed a couple bugs
