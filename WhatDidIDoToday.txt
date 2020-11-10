@@ -463,3 +463,4 @@ giving me a bunch of false errors.
 11/6/20: Read some more on Swift, also worked on a reverse transition
 11/7/20: Worked on a couple of tasks
 11/8/20: Did some art changes and fixed a couple bugs
+11/9/20: Finished some particle work and fixed a couple of bugs
