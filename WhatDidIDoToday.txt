@@ -464,3 +464,4 @@ giving me a bunch of false errors.
 11/7/20: Worked on a couple of tasks
 11/8/20: Did some art changes and fixed a couple bugs
 11/9/20: Finished some particle work and fixed a couple of bugs
+11/10/20: Finished more work on the credits and lots of optimizing char count
