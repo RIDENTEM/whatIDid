@@ -467,3 +467,4 @@ giving me a bunch of false errors.
 11/10/20: Finished more work on the credits and lots of optimizing char count
 11/11/20: Did a lot of refactoring, working with the credits, and ui fixes
 11/12/20: Did some code for a new feature and made some art changes
+11/13/20: Added some more code for the UI and jump as well as some art experiments
