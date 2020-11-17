@@ -470,3 +470,4 @@ giving me a bunch of false errors.
 11/13/20: Added some more code for the UI and jump as well as some art experiments
 11/14/20: Added some prep code for a rock crush and a particle effect
 11/15/20: Completed a couple of tasks
+11/16/20: Added an art improvement, a super thing, and distributed a new build to testers
