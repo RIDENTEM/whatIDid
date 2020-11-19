@@ -472,3 +472,4 @@ giving me a bunch of false errors.
 11/15/20: Completed a couple of tasks
 11/16/20: Added an art improvement, a super thing, and distributed a new build to testers
 11/17/20: Finished the main menu UI, added some feedback for selections, and refactored the code
+11/18/20: Finished UI, fixed bugs, refactored code
