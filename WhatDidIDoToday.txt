@@ -476,3 +476,4 @@ giving me a bunch of false errors.
 11/19/20: Did some playtesting stuff and fixed a bug and learned some swift
 11/20/20: Fixed a few bugs, did some feedback, and read up on swift
 11/21/20: Started looking into how to fix a bug from awhile ago
+11/22/20: Fixed that pesky bug
