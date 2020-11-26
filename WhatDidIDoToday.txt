@@ -479,3 +479,4 @@ giving me a bunch of false errors.
 11/22/20: Fixed that pesky bug
 11/23/20: Fixed a bug and read up on some more Swift
 11/24/20: Added multiple rock sprites and refactored the code to account for them, and fixed a bug
+11/25/20: Read some more swift
