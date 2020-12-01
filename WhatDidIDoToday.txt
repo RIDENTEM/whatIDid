@@ -484,3 +484,4 @@ giving me a bunch of false errors.
 11/27/20: Made a quick improvement fix and created a playtesting build
 11/28/20: Read a bit of a marketing book
 11/29/20: Worked on the ios version and got the game to play, but I think there is a bug
+11/30/20: Mostly worked on the mobile versions and updated the play store page setup
