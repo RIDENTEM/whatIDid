@@ -486,3 +486,4 @@ giving me a bunch of false errors.
 11/29/20: Worked on the ios version and got the game to play, but I think there is a bug
 11/30/20: Mostly worked on the mobile versions and updated the play store page setup
 12/1/20: Updated the play store page again and worked on the mobile versions of the game
+12/2/20: Did some mobile stuff and fixed issues
