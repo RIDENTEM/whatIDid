@@ -489,3 +489,4 @@ giving me a bunch of false errors.
 12/2/20: Did some mobile stuff and fixed issues
 12/3/20: Finally got all the mobile builds in working order, now I just need to make some minor modifications to the ad stuff
 12/4/20: Worked on mobile issues, the ios account, and trailer stuff
+12/5/20: Submitted an app for a new bank account and fixed some issues with the mobile version
