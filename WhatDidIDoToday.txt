@@ -492,3 +492,4 @@ giving me a bunch of false errors.
 12/5/20: Submitted an app for a new bank account and fixed some issues with the mobile version
 12/6/20: Drafted some posts I will make when the game goes live
 12/7/20: Made a presskit
+12/8/20: Fixed a bunch of issues on mobile and found out why the Android version has bad audio
