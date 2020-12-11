@@ -494,3 +494,4 @@ giving me a bunch of false errors.
 12/7/20: Made a presskit
 12/8/20: Fixed a bunch of issues on mobile and found out why the Android version has bad audio
 12/9/20: Fixed some audio issues and banking stuff
+12/10/20: Added mobile devices supported to the project on Android
