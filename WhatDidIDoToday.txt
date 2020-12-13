@@ -496,3 +496,4 @@ giving me a bunch of false errors.
 12/9/20: Fixed some audio issues and banking stuff
 12/10/20: Added mobile devices supported to the project on Android
 12/11/20: Started setting up the admob consent popup
+12/12/20: more admob consent research
