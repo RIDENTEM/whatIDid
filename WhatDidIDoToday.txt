@@ -497,3 +497,4 @@ giving me a bunch of false errors.
 12/10/20: Added mobile devices supported to the project on Android
 12/11/20: Started setting up the admob consent popup
 12/12/20: more admob consent research
+12/13/20: worked more on admob and banking stuff
