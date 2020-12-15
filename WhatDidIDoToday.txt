@@ -498,3 +498,4 @@ giving me a bunch of false errors.
 12/11/20: Started setting up the admob consent popup
 12/12/20: more admob consent research
 12/13/20: worked more on admob and banking stuff
+12/14/20: Added a fix for collision and tweaked the mobile UI with a better button
