@@ -500,3 +500,4 @@ giving me a bunch of false errors.
 12/13/20: worked more on admob and banking stuff
 12/14/20: Added a fix for collision and tweaked the mobile UI with a better button
 12/15/20: Narrowed down outreach to 5 people and also did some code prep
+12/16/20: took care of press keys and did a bit of coding 
