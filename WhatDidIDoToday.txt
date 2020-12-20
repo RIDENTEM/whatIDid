@@ -503,3 +503,4 @@ giving me a bunch of false errors.
 12/16/20: took care of press keys and did a bit of coding 
 12/17/20: did some trailer stuff and made a plan for marketing
 12/18/20: Worked on marketing stuff, I had to update a lot of outdated screenshots
+12/19/20: Finished the last round of testing
