@@ -504,3 +504,4 @@ giving me a bunch of false errors.
 12/17/20: did some trailer stuff and made a plan for marketing
 12/18/20: Worked on marketing stuff, I had to update a lot of outdated screenshots
 12/19/20: Finished the last round of testing
+12/20/20: Solved a bug that took a long while to fix
