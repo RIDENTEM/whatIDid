@@ -506,3 +506,4 @@ giving me a bunch of false errors.
 12/19/20: Finished the last round of testing
 12/20/20: Solved a bug that took a long while to fix
 12/21/20: fixed a couple of bugs and fixed the art. also replaced some marketing images
+12/22/20: Announced Altidudes
