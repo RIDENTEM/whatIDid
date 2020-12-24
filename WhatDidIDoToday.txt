@@ -508,3 +508,4 @@ giving me a bunch of false errors.
 12/21/20: fixed a couple of bugs and fixed the art. also replaced some marketing images
 12/22/20: Announced Altidudes
 12/23/20: Made Trello public, made some comments on Reddit, updated mobile versions
+12/24/20: Updated ios versions, added correct admob ids, and setup store pages
