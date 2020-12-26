@@ -509,3 +509,4 @@ giving me a bunch of false errors.
 12/22/20: Announced Altidudes
 12/23/20: Made Trello public, made some comments on Reddit, updated mobile versions
 12/24/20: Updated ios versions, added correct admob ids, and setup store pages
+12/25/20: Did a little app store submission stuff
