@@ -511,3 +511,4 @@ giving me a bunch of false errors.
 12/24/20: Updated ios versions, added correct admob ids, and setup store pages
 12/25/20: Did a little app store submission stuff
 12/26/20: Setup a bit more of the ios store page
+12/27/20: Submitted and edited screenshots for ios
