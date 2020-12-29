@@ -512,3 +512,4 @@ giving me a bunch of false errors.
 12/25/20: Did a little app store submission stuff
 12/26/20: Setup a bit more of the ios store page
 12/27/20: Submitted and edited screenshots for ios
+12/28/20: Worked on the character selection
