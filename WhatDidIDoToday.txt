@@ -515,3 +515,4 @@ giving me a bunch of false errors.
 12/28/20: Worked on the character selection
 12/29/20: Worked more on character selection and art additions
 12/30/20: Figuring out steampipe and worked on more art
+12/31/20: Submitted build to Steamworks and worked on more character selection
