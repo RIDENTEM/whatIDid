@@ -530,3 +530,5 @@ giving me a bunch of false errors.
 1/12/21: Horror research and setup a Trello for the new game
 1/13/21: Horror research and analysis
 1/14/21: Horror research and documentation
+1/15/21: Horror research
+1/16/21: Programming research
