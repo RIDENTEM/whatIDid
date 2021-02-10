@@ -555,3 +555,4 @@ giving me a bunch of false errors.
 2/6/21: Read some horror research
 2/7/21: took care of legal things
 2/8/21: Checked out some premade art, logged cash numbers for premade assets in the store, and learned UE4
+2/9/21: Premade asset runthrough, git problems, and Altidudes fixes
