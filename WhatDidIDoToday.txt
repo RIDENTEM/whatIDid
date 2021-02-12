@@ -557,3 +557,4 @@ giving me a bunch of false errors.
 2/8/21: Checked out some premade art, logged cash numbers for premade assets in the store, and learned UE4
 2/9/21: Premade asset runthrough, git problems, and Altidudes fixes
 2/10/21: Gathered financial data for the business
+2/11/21: more tax stuff and UE4 research
