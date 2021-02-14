@@ -559,3 +559,4 @@ giving me a bunch of false errors.
 2/10/21: Gathered financial data for the business
 2/11/21: more tax stuff and UE4 research
 2/12/21: I worked on reorganizing the premade assets, and getting rid of things I don't need
+2/13/21: Did some horror research with Outlast
