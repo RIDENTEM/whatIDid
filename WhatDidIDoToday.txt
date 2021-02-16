@@ -561,3 +561,4 @@ giving me a bunch of false errors.
 2/12/21: I worked on reorganizing the premade assets, and getting rid of things I don't need
 2/13/21: Did some horror research with Outlast
 2/14/21: Did some more horror research on Outlast
+2/15/21: Did some more research and started writing a game design document
