@@ -563,3 +563,4 @@ giving me a bunch of false errors.
 2/14/21: Did some more horror research on Outlast
 2/15/21: Did some more research and started writing a game design document
 2/16/21: Finished the GDD skeleton, did some more research, and drafted correspondence
+2/17/21: Contacted creators, and worked on head bobbing
