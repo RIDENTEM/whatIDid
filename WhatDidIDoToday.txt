@@ -566,3 +566,4 @@ giving me a bunch of false errors.
 2/17/21: Contacted creators, and worked on head bobbing
 2/18/21: Did some classwork and head bobbing tweaks
 2/19/21: Did a bit of GDU and head bobbing, also learning about debugging in UE4
+2/20/21: Some GDU, and sought out some art assets and prices
