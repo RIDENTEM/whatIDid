@@ -568,3 +568,4 @@ giving me a bunch of false errors.
 2/19/21: Did a bit of GDU and head bobbing, also learning about debugging in UE4
 2/20/21: Some GDU, and sought out some art assets and prices
 2/21/21: A bit of GDU and horror reading
+2/22/21: found some premade assets, GDU, working with lighting, and story brainstorming
