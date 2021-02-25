@@ -570,3 +570,4 @@ giving me a bunch of false errors.
 2/21/21: A bit of GDU and horror reading
 2/22/21: found some premade assets, GDU, working with lighting, and story brainstorming
 2/23/21: read some horror, GDU, and worked a little on lighting
+2/24/21: lighting
