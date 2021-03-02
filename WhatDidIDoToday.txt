@@ -575,3 +575,4 @@ giving me a bunch of false errors.
 2/26/21: Did some real life research and recording. Also got some marketing images
 2/27/21: Did some real life research
 2/28/21: Recorded some things, and read some horror research
+3/1/21: Played around with camcorder vfx again, and tried making an improved color lookup table
