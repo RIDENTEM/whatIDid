@@ -578,3 +578,4 @@ giving me a bunch of false errors.
 3/1/21: Played around with camcorder vfx again, and tried making an improved color lookup table
 3/2/21: Worked on camcorder vfx and created a better LUT
 3/3/21: Added zooming to camcorder
+3/4/21: took a couple meetings
