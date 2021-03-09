@@ -581,3 +581,5 @@ giving me a bunch of false errors.
 3/4/21: took a couple meetings
 3/5/21: read a bit
 3/6/21: read some more horror research
+3/7/21: read a bit on horror research
+3/8/21: Built out more of the GDD 
