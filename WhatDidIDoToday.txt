@@ -593,3 +593,4 @@ giving me a bunch of false errors.
 3/16/21: Worked with some more assets and sent out a bunch of emails
 3/17/21: Added some more assets like streets and organized the hierarchy of stuff in the level
 3/18/21: Played around with assets
+3/19/21: played with more assets
