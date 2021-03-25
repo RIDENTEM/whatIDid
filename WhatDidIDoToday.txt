@@ -598,3 +598,4 @@ giving me a bunch of false errors.
 3/21/21: Finished the book on game design
 3/22/21: Sent out emails
 3/23/21: Got the land deformation tool working, values will need to be tweaked
+3/24/21: Played around with textures, set the normals off
