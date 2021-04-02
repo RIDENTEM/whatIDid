@@ -605,3 +605,5 @@ giving me a bunch of false errors.
 3/28/21: Did some horror research on Outlast
 3/29/21: More horror research on Outlast 2
 3/30/21: More horror research for Outlast 2
+3/31/21: More horror research
+4/1/21: Cleaned up some assets in the game
