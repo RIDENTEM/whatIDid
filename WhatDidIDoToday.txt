@@ -621,3 +621,5 @@ giving me a bunch of false errors.
 4/13/21: Sent emails and worked a bit on the railing floor for the entry boards
 4/14/21: Worked on the terrain and a bit of code work for the transitions
 4/15/21: finished up transition BP and worked on lfs
+4/16/21: worked on stuff
+4/17/21: helped out with reference
