@@ -625,3 +625,5 @@ giving me a bunch of false errors.
 4/17/21: helped out with reference
 4/18/21: horror research on Cadaver
 4/19/21: sent some emails
+4/20/21: trying to get git lfs to work
+4/21/21: Sent contact, changed some art, tried pushing to git lfs
