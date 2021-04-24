@@ -628,3 +628,4 @@ giving me a bunch of false errors.
 4/20/21: trying to get git lfs to work
 4/21/21: Sent contact, changed some art, tried pushing to git lfs
 4/22/21: Worked on the level streaming tech, separating assets into different scenes
+4/23/21: Finished the level streaming
