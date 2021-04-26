@@ -630,3 +630,4 @@ giving me a bunch of false errors.
 4/22/21: Worked on the level streaming tech, separating assets into different scenes
 4/23/21: Finished the level streaming
 4/24/21: Nothing
+4/25/21: A little masterclass
