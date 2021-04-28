@@ -632,3 +632,4 @@ giving me a bunch of false errors.
 4/24/21: Nothing
 4/25/21: A little masterclass
 4/26/21: Worked on blueprint for a timer
+4/27/21: Read a bit on game design
