@@ -639,3 +639,4 @@ giving me a bunch of false errors.
 5/1/21: Read a bit
 5/2/21: Read some stuff
 5/3/21: Worked on the BP, sent payment, and emailed
+5/4/21: Made a new repo, coordinated new LUT, got back to rob, finished camcorder timer BP (Will need improvement)
