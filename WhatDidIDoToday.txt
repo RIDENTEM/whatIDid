@@ -650,3 +650,4 @@ giving me a bunch of false errors.
 5/12/21: Found more art assets and BPd most interactions
 5/13/21: changed game name in Steamworks
 5/14/21: Setup an area for the trailer, did some marketing and entertainment research
+5/15/21: Did some marketing classwork
