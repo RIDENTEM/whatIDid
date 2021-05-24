@@ -658,3 +658,4 @@ giving me a bunch of false errors.
 5/20/21: Fixed area spawners, sent emails
 5/21/21: Worked more on the falling event
 5/22/21: Research
+5/23/21: marketing research
