@@ -659,3 +659,4 @@ giving me a bunch of false errors.
 5/21/21: Worked more on the falling event
 5/22/21: Research
 5/23/21: marketing research
+5/24/21: worked on events and collision bug
