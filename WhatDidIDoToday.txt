@@ -660,3 +660,4 @@ giving me a bunch of false errors.
 5/22/21: Research
 5/23/21: marketing research
 5/24/21: worked on events and collision bug
+5/25/21: Fixed some issues with the transition bp
