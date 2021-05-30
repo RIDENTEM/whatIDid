@@ -663,3 +663,5 @@ giving me a bunch of false errors.
 5/25/21: Fixed some issues with the transition bp
 5/26/21: Worked some more on the transition screen and research
 5/27/21: Finished up the transition screen and fixed remaining bugs
+5/28/21: Started on a pause menu
+5/29/21: Research
