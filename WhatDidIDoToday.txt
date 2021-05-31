@@ -665,3 +665,4 @@ giving me a bunch of false errors.
 5/27/21: Finished up the transition screen and fixed remaining bugs
 5/28/21: Started on a pause menu
 5/29/21: Research
+5/30/21: research
