@@ -666,3 +666,5 @@ giving me a bunch of false errors.
 5/28/21: Started on a pause menu
 5/29/21: Research
 5/30/21: research
+5/31/21: research
+6/1/21: Worked a bit more on the pause menu
