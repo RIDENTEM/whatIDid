@@ -687,3 +687,4 @@ giving me a bunch of false errors.
 6/18/21: sent emails, did level design and fixed an exporting issue
 6/19/21: did some research
 6/20/21: did some more research
+6/21/21: more research
