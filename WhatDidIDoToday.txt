@@ -708,3 +708,4 @@ giving me a bunch of false errors.
 7/9/21: Got the particle effect transferred into main level
 7/10/21: Tested game a bit
 7/11/21: Added a task for marketing
+7/12/21: Sent an email
