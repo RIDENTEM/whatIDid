@@ -711,3 +711,4 @@ giving me a bunch of false errors.
 7/12/21: Sent an email
 7/13/21: Changed some settings in Steamworks
 7/14/21: Implemented some electric poles
+7/15/21: Fixed up the head bobbing
