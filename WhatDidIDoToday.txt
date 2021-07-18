@@ -712,3 +712,5 @@ giving me a bunch of false errors.
 7/13/21: Changed some settings in Steamworks
 7/14/21: Implemented some electric poles
 7/15/21: Fixed up the head bobbing
+7/16/21: Started working on a flickering light
+7/17/21: Finished light flickering script for street lamp
