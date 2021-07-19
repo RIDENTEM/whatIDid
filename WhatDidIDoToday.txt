@@ -714,3 +714,4 @@ giving me a bunch of false errors.
 7/15/21: Fixed up the head bobbing
 7/16/21: Started working on a flickering light
 7/17/21: Finished light flickering script for street lamp
+7/18/21: Read a bit
