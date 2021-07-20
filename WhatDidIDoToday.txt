@@ -715,3 +715,4 @@ giving me a bunch of false errors.
 7/16/21: Started working on a flickering light
 7/17/21: Finished light flickering script for street lamp
 7/18/21: Read a bit
+7/19/21: Did some lvel design and created a new image for the battery
