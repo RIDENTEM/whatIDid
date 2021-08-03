@@ -727,3 +727,6 @@ giving me a bunch of false errors.
 7/28/21: sent an email and tested the new asset
 7/29/21: Sent payment, did research, prepped audio
 7/30/21: sent message and worked on sound fx
+7/31/21: Did some more research and sent some emails
+8/1/21: Worked on some bugs and sent emails
+8/2/21: Fixed sand footprint issue
