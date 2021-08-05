@@ -730,3 +730,5 @@ giving me a bunch of false errors.
 7/31/21: Did some more research and sent some emails
 8/1/21: Worked on some bugs and sent emails
 8/2/21: Fixed sand footprint issue
+8/3/21: Worked on audio
+8/4/21: Finished up the footstep sounds
