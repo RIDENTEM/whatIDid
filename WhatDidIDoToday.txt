@@ -740,3 +740,5 @@ giving me a bunch of false errors.
 8/10/21: Did some reading and published blog
 8/11/21: Cut some audio clips from the camcorder zoom and activated the tape stop when a transition occurs
 8/12/21: Drafted another blog post
+8/13/21: Made the camcorder zoom smooth, but it jitters when doing it quickly
+8/14/21: Read a bit
