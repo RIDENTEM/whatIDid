@@ -745,3 +745,4 @@ giving me a bunch of false errors.
 8/15/21: Read some more
 8/16/21: Sent an email and drafted a blog post
 8/17/21: Fixed up the camcorder zooming
+8/18/21: Got the camcorder zoom to work as best as it can be for now
