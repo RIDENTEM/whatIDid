@@ -747,3 +747,4 @@ giving me a bunch of false errors.
 8/17/21: Fixed up the camcorder zooming
 8/18/21: Got the camcorder zoom to work as best as it can be for now
 8/19/21: Made some camcorder UI for the zoom 
+8/20/21: Finished up the camcorder UI and implemented it in the game, looks good and works but it moves pretty fast
