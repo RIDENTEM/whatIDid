@@ -750,3 +750,4 @@ giving me a bunch of false errors.
 8/20/21: Finished up the camcorder UI and implemented it in the game, looks good and works but it moves pretty fast
 8/21/21: Read a bit
 8/22/21: Read some more
+8/23/21: Worked on the UI for the pause menu
