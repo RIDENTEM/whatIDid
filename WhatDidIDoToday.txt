@@ -753,3 +753,4 @@ giving me a bunch of false errors.
 8/23/21: Worked on the UI for the pause menu
 8/24/21: Touched up pause menu
 8/25/21: Finished polishing the pause menu
+8/26/21: Read some more
