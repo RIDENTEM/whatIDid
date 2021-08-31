@@ -754,3 +754,7 @@ giving me a bunch of false errors.
 8/24/21: Touched up pause menu
 8/25/21: Finished polishing the pause menu
 8/26/21: Read some more
+8/27/21: Finished book
+8/28/21: Read some
+8/29/21: Read a bit more
+8/30/21: Fixed bugs, worked on main menu, organized things
