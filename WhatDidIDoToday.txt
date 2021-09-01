@@ -758,3 +758,4 @@ giving me a bunch of false errors.
 8/28/21: Read some
 8/29/21: Read a bit more
 8/30/21: Fixed bugs, worked on main menu, organized things
+8/31/21: Fixed bugs, built out the final area
