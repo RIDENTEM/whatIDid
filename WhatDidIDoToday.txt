@@ -761,3 +761,4 @@ giving me a bunch of false errors.
 8/31/21: Fixed bugs, built out the final area
 9/1/21: Fixed bugs, worked on camera look at code
 9/2/21: Worked on a flashlight bug
+9/3/21: Added nv sfx
