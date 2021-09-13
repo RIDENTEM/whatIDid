@@ -770,3 +770,5 @@ giving me a bunch of false errors.
 9/9/21: Fixed the build 0.1 error and sent it
 9/10/21: Sent emails
 9/11/21: Looked at new asset
+9/12/21: Worked on cutscene cards
+9/13/21: Sent messages
