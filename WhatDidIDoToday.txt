@@ -772,3 +772,6 @@ giving me a bunch of false errors.
 9/11/21: Looked at new asset
 9/12/21: Worked on cutscene cards
 9/13/21: Sent messages
+9/14/21: Worked on Git issues
+9/15/21: Fixed Git issues
+9/16/21: Deleted assets and sent correspondence
