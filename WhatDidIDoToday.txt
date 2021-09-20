@@ -775,3 +775,5 @@ giving me a bunch of false errors.
 9/14/21: Worked on Git issues
 9/15/21: Fixed Git issues
 9/16/21: Deleted assets and sent correspondence
+9/17/21: Finished up some bugs
+9/18/21: Looked at crab
