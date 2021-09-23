@@ -780,3 +780,4 @@ giving me a bunch of false errors.
 9/19/21: Sent emails
 9/20/21: Fixed bugs
 9/21/21: Started putting assets into respective levels
+9/22/21: Sent some emails and took care of tasks
