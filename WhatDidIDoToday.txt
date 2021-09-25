@@ -781,3 +781,5 @@ giving me a bunch of false errors.
 9/20/21: Fixed bugs
 9/21/21: Started putting assets into respective levels
 9/22/21: Sent some emails and took care of tasks
+9/23/21: Took care of payments and finance updates
+9/24/21: Worked on a new transition level
