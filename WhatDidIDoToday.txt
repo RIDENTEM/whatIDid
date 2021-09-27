@@ -784,3 +784,4 @@ giving me a bunch of false errors.
 9/23/21: Took care of payments and finance updates
 9/24/21: Worked on a new transition level
 9/25/21: Made connections
+9/26/21: Finished placeholder credits text
