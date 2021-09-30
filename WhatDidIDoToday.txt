@@ -787,3 +787,4 @@ giving me a bunch of false errors.
 9/26/21: Finished placeholder credits text
 9/27/21: Worked on the credits sequence and the final cutscenes
 9/28/21: Talked about music
+9/29/21: Talked about music and did more work on the first cutscene
