@@ -789,3 +789,4 @@ giving me a bunch of false errors.
 9/28/21: Talked about music
 9/29/21: Talked about music and did more work on the first cutscene
 9/30/21: Sent emails and worked on cutscene
+10/1/21: Worked on final cutscene
