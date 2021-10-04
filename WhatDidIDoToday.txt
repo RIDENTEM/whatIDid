@@ -791,3 +791,4 @@ giving me a bunch of false errors.
 9/30/21: Sent emails and worked on cutscene
 10/1/21: Worked on final cutscene
 10/2/21: Looked at Cubase again
+10/3/21: Experimented with Wavelab
