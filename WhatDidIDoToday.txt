@@ -792,3 +792,4 @@ giving me a bunch of false errors.
 10/1/21: Worked on final cutscene
 10/2/21: Looked at Cubase again
 10/3/21: Experimented with Wavelab
+10/4/21: Tried some more experiments with the camera animation, may use a timeline coupled with a shake
