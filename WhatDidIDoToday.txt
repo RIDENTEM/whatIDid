@@ -794,3 +794,4 @@ giving me a bunch of false errors.
 10/3/21: Experimented with Wavelab
 10/4/21: Tried some more experiments with the camera animation, may use a timeline coupled with a shake
 10/5/21: Fixed a couple bugs
+10/6/21: 
