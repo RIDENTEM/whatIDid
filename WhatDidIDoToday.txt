@@ -794,4 +794,8 @@ giving me a bunch of false errors.
 10/3/21: Experimented with Wavelab
 10/4/21: Tried some more experiments with the camera animation, may use a timeline coupled with a shake
 10/5/21: Fixed a couple bugs
-10/6/21: 
+10/6/21: Worked on bugs
+10/7/21: Worked on the cutscene
+10/8/21: Tried building a game and read a bit
+10/9/21: Read up on horror and successfuly built
+10/10/21:
