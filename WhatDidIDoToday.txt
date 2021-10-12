@@ -798,4 +798,5 @@ giving me a bunch of false errors.
 10/7/21: Worked on the cutscene
 10/8/21: Tried building a game and read a bit
 10/9/21: Read up on horror and successfuly built
-10/10/21:
+10/10/21: Read a bit
+10/11/21: Worked on bugs and v0.2 build
