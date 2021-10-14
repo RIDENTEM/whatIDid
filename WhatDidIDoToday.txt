@@ -801,3 +801,4 @@ giving me a bunch of false errors.
 10/10/21: Read a bit
 10/11/21: Worked on bugs and v0.2 build
 10/12/21: Wrangled build v0.2
+10/13/21: Worked on more build stuff, fixed bugs, got rid of assets
