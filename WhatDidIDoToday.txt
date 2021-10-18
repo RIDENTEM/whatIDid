@@ -803,3 +803,6 @@ giving me a bunch of false errors.
 10/12/21: Wrangled build v0.2
 10/13/21: Worked on more build stuff, fixed bugs, got rid of assets
 10/14/21: Fixed some more bugs and started building the feedback packs
+10/15/21: Did some reading
+10/16/21: Read a bit
+10/17/21: Read up on horror
