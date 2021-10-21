@@ -808,3 +808,4 @@ giving me a bunch of false errors.
 10/17/21: Read up on horror
 10/18/21: Finished up the ending fog, could use polish
 10/19/21: Sent emails
+10/20/21: Fixed some of the UI and worked on the final cutscene
