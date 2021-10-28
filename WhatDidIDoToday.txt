@@ -815,3 +815,5 @@ giving me a bunch of false errors.
 10/24/21: sent emails
 10/25/21: Worked on optimizations
 10/26/21: Prepared an update for Altidudes
+10/27/21: Worked on the fumble
+10/28/21: Took care of Halloween update and worked more on the fumble
