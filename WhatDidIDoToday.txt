@@ -821,3 +821,4 @@ giving me a bunch of false errors.
 10/30/21: Worked on Trello
 10/31/21: Read a bit
 11/1/21: Worked on the ending cutscene and built interactables
+11/2/21: Worked on finishing cutscene and organized assets
