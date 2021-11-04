@@ -822,3 +822,4 @@ giving me a bunch of false errors.
 10/31/21: Read a bit
 11/1/21: Worked on the ending cutscene and built interactables
 11/2/21: Worked on finishing cutscene and organized assets
+11/3/21: Updated assets and fixed a bug
