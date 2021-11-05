@@ -823,3 +823,4 @@ giving me a bunch of false errors.
 11/1/21: Worked on the ending cutscene and built interactables
 11/2/21: Worked on finishing cutscene and organized assets
 11/3/21: Updated assets and fixed a bug
+11/4/21: Worked on implementation of area interactables
