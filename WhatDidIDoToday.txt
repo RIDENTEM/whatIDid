@@ -824,3 +824,5 @@ giving me a bunch of false errors.
 11/2/21: Worked on finishing cutscene and organized assets
 11/3/21: Updated assets and fixed a bug
 11/4/21: Worked on implementation of area interactables
+11/5/21: Worked on area interactables and bug fixes
+11/6/21: Read a bit on horror
