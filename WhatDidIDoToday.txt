@@ -826,3 +826,4 @@ giving me a bunch of false errors.
 11/4/21: Worked on implementation of area interactables
 11/5/21: Worked on area interactables and bug fixes
 11/6/21: Read a bit on horror
+11/7/21: read some horror
