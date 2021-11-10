@@ -828,3 +828,4 @@ giving me a bunch of false errors.
 11/6/21: Read a bit on horror
 11/7/21: read some horror
 11/8/21: Fixed bugs, worked on areas, and built v0.3
+11/9/21: Worked on decorating the areas and sent messages
