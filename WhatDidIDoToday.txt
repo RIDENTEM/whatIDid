@@ -831,3 +831,4 @@ giving me a bunch of false errors.
 11/9/21: Worked on decorating the areas and sent messages
 11/10/21: Worked on decorations of the area and optimizations to the end
 11/11/21: Worked on audio implementation
+11/12/21: Ran a playtesting session, fixed bugs, did research
