@@ -834,3 +834,4 @@ giving me a bunch of false errors.
 11/12/21: Ran a playtesting session, fixed bugs, did research
 11/13/21: Read a bit and fixed some issues
 11/14/21: Read a bit on horror
+11/15/21: Worked on audio and figured out attenuation
