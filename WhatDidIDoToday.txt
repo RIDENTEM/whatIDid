@@ -835,3 +835,4 @@ giving me a bunch of false errors.
 11/13/21: Read a bit and fixed some issues
 11/14/21: Read a bit on horror
 11/15/21: Worked on audio and figured out attenuation
+11/16/21: Worked on editing the nail scratching sounds and implemented in Area 2, but need to be louder
