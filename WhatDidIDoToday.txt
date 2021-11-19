@@ -837,3 +837,4 @@ giving me a bunch of false errors.
 11/15/21: Worked on audio and figured out attenuation
 11/16/21: Worked on editing the nail scratching sounds and implemented in Area 2, but need to be louder
 11/17/21: Worked on fixes, audio work, and messaging
+11/18/21: Worked on final cutscenes
