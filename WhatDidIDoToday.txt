@@ -839,3 +839,4 @@ giving me a bunch of false errors.
 11/17/21: Worked on fixes, audio work, and messaging
 11/18/21: Worked on final cutscenes
 11/19/21: Worked on fixing issues and polishing UI 
+11/20/21: did some research on comedy
