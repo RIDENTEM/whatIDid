@@ -840,3 +840,4 @@ giving me a bunch of false errors.
 11/18/21: Worked on final cutscenes
 11/19/21: Worked on fixing issues and polishing UI 
 11/20/21: did some research on comedy
+11/21/21: Finished a book on horror
