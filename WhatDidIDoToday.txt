@@ -842,3 +842,4 @@ giving me a bunch of false errors.
 11/20/21: did some research on comedy
 11/21/21: Finished a book on horror
 11/22/21: Cut up the sobbing audio and submitted build to Steamworks
+11/23/21: Finished the sobbing and implemented other sfx, fixed bugs
