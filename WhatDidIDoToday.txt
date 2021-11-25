@@ -843,3 +843,4 @@ giving me a bunch of false errors.
 11/21/21: Finished a book on horror
 11/22/21: Cut up the sobbing audio and submitted build to Steamworks
 11/23/21: Finished the sobbing and implemented other sfx, fixed bugs
+11/24/21: Implemented all sfx, stingers, and music and deleted unused assets
