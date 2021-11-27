@@ -845,3 +845,4 @@ giving me a bunch of false errors.
 11/23/21: Finished the sobbing and implemented other sfx, fixed bugs
 11/24/21: Implemented all sfx, stingers, and music and deleted unused assets
 11/25/21: Looked for a good radio sfx
+11/26/21: Read a bit
