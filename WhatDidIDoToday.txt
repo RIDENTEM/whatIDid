@@ -846,3 +846,5 @@ giving me a bunch of false errors.
 11/24/21: Implemented all sfx, stingers, and music and deleted unused assets
 11/25/21: Looked for a good radio sfx
 11/26/21: Read a bit
+11/27/21: Read up on marketing
+11/28/21: Did some horror research
