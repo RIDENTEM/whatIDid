@@ -848,3 +848,5 @@ giving me a bunch of false errors.
 11/26/21: Read a bit
 11/27/21: Read up on marketing
 11/28/21: Did some horror research
+11/29/21: Worked on the presskit, fixed bugs
+11/30/21: Finished the presskit
