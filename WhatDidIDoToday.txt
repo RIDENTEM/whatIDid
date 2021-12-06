@@ -853,3 +853,5 @@ giving me a bunch of false errors.
 12/1/21: Did some comedy research
 12/2/21: Did more research
 12/3/21: did some horror research
+12/4/21: made build 0.4
+12/5/21: did some horror research
