@@ -855,3 +855,4 @@ giving me a bunch of false errors.
 12/3/21: did some horror research
 12/4/21: made build 0.4
 12/5/21: did some horror research
+12/6/21: fixed some bugs and tried desperately to get a mac build working
