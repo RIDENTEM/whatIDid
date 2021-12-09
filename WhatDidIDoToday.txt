@@ -857,3 +857,4 @@ giving me a bunch of false errors.
 12/5/21: did some horror research
 12/6/21: fixed some bugs and tried desperately to get a mac build working
 12/7/21: Figured out the Mac issue and did some fixing and improvements
+12/8/21: Worked on the mac issue, corrupted crab, some horror research
