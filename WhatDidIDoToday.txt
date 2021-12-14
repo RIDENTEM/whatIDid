@@ -860,3 +860,6 @@ giving me a bunch of false errors.
 12/8/21: Worked on the mac issue, corrupted crab, some horror research
 12/9/21: Did work with settings
 12/10/21: Worked more on settings
+12/11/21: Worked on settings
+12/12/21: Fixed some bugs and rebuilt
+12/13/21: Deleted assets, tried to fix Mac issues
