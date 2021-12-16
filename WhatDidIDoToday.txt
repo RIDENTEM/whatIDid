@@ -864,3 +864,4 @@ giving me a bunch of false errors.
 12/12/21: Fixed some bugs and rebuilt
 12/13/21: Deleted assets, tried to fix Mac issues
 12/14/21: Worked on the corrupted crab functionality and did some outreach
+12/15/21: Worked on corrupted crab
