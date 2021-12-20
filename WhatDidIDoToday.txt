@@ -866,3 +866,6 @@ giving me a bunch of false errors.
 12/14/21: Worked on the corrupted crab functionality and did some outreach
 12/15/21: Worked on corrupted crab
 12/16/21: Finished the corrupted crab
+12/17/21: Fixed bugs and issues
+12/18/21: Read a bit
+12/19/21: Worked on mac version
