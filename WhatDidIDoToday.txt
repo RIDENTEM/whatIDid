@@ -870,3 +870,4 @@ giving me a bunch of false errors.
 12/18/21: Read a bit
 12/19/21: Worked on mac version
 12/20/21: Finished up Mac version and ready to make a build
+12/21/21: Worked on settings
