@@ -872,3 +872,4 @@ giving me a bunch of false errors.
 12/20/21: Finished up Mac version and ready to make a build
 12/21/21: Worked on settings
 12/22/21: Fixed audio and worked on polish
+12/23/21: Fixed multiple bugs
