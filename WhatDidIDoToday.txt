@@ -875,3 +875,4 @@ giving me a bunch of false errors.
 12/23/21: Fixed multiple bugs
 12/24/21: Worked on settings bug
 12/25/21: Fixed what may be the final bug
+12/26/21: Created shippable builds
