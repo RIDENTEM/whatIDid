@@ -910,3 +910,6 @@ giving me a bunch of false errors.
 1/27/22: Post-release tasks and outreach
 1/28/22: Worked on Steam achievements
 1/29/22: did some work on ggj22
+1/30/22: more research
+1/31/22: did research
+2/1/22: Developer outreach
