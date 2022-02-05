@@ -915,3 +915,4 @@ giving me a bunch of false errors.
 2/1/22: Developer outreach
 2/2/22: more developer outreach and post mortem writing
 2/3/22: dev outreach, dialogue
+2/4/22: wrote interview questions
