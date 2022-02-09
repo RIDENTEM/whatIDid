@@ -918,3 +918,5 @@ giving me a bunch of false errors.
 2/4/22: wrote interview questions
 2/5/22: did outreach and post mortem writing
 2/6/22: organization
+2/7/22: post mortem writing
+2/8/22: dev outreach
