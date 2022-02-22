@@ -932,3 +932,4 @@ giving me a bunch of false errors.
 2/18/22: outreach
 2/19/22: text
 2/20/22: BETTERMENT
+2/21/22: contract setup
