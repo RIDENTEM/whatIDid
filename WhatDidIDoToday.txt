@@ -933,3 +933,4 @@ giving me a bunch of false errors.
 2/19/22: text
 2/20/22: BETTERMENT
 2/21/22: contract setup
+2/22/22: more setup
