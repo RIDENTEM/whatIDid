@@ -997,3 +997,4 @@ giving me a bunch of false errors.
 4/24/22: READ
 4/25/22: sent emails
 4/26/22: wrote dialogue and sent emails
+4/27/22: wrote some dialogue
