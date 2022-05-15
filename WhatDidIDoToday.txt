@@ -1010,3 +1010,9 @@ giving me a bunch of false errors.
 5/7/22: read a bit
 5/8/22: Read a book
 5/9/22: emailed
+5/10/22: read a bit
+5/11/22: read more
+5/12/22: read
+5/13/22: sent emails
+5/14/22: sent more emails
+5/15/22: did some reading
