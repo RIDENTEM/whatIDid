@@ -1106,3 +1106,4 @@ giving me a bunch of false errors.
 8/11/22: contractor setup
 8/12/22: communications and blog publishing
 8/13/22: talk creation
+8/14/22: powerpoint
