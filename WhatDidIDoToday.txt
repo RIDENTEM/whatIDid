@@ -1134,3 +1134,4 @@ giving me a bunch of false errors.
 9/8/22: communications with art
 9/9/22: updated Trello
 9/10/22: created concept art
+9/11/22: implemented art in-game
