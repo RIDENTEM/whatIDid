@@ -1137,3 +1137,4 @@ giving me a bunch of false errors.
 9/11/22: implemented art in-game
 9/12/22: concept and writing
 9/13/22: did more writing
+9/14/22: did writing
