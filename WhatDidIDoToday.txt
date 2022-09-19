@@ -1141,3 +1141,4 @@ giving me a bunch of false errors.
 9/15/22: communications
 9/16/22: writing
 9/17/22: setup
+9/18/22: dialogue
