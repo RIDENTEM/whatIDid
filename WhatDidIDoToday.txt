@@ -1147,3 +1147,4 @@ giving me a bunch of false errors.
 9/21/22: art
 9/22/22: concepts
 9/23/22: Concepts, and demo polish
+9/24/22: tested demo, all clear
