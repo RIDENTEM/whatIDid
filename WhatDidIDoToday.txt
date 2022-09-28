@@ -1150,3 +1150,4 @@ giving me a bunch of false errors.
 9/24/22: tested demo, all clear
 9/25/22: completed traces
 9/26/22: art traces and submitted demo
+9/27/22: art and emails
