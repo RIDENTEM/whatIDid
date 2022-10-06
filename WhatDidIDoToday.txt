@@ -1159,3 +1159,4 @@ giving me a bunch of false errors.
 10/2/22: concepts
 10/3/22: writing
 10/4/22: writing
+10/5/22: wrote more and setup concepts
