@@ -1176,3 +1176,4 @@ giving me a bunch of false errors.
 10/19/22: did concepts and wrote more
 10/20/22: wrote for ch3
 10/21/22: wrote more and did concepts
+10/22/22: wrote a bit more
