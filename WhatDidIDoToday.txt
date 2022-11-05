@@ -1189,3 +1189,4 @@ giving me a bunch of false errors.
 11/1/22: writing
 11/2/22: finished ch4 2nd draft
 11/3/22: Worked on ch5 2nd draft
+11/4/22: fixed errors
