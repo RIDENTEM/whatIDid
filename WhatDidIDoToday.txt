@@ -1201,3 +1201,4 @@ giving me a bunch of false errors.
 11/13/22: comms
 11/14/22: Concepts
 11/15/22: finished ch7 and 8 2nd draft
+11/16/22: did some traces
