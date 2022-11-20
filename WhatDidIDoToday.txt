@@ -1204,3 +1204,4 @@ giving me a bunch of false errors.
 11/16/22: did some traces
 11/17/22: did traces
 11/18/22: traces
+11/19/22: research
