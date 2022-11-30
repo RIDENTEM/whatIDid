@@ -1213,3 +1213,5 @@ giving me a bunch of false errors.
 11/25/22: reading
 11/26/22: comms
 11/27/22: traces and purchases
+11/28/22: traces
+11/29/22: Traces
