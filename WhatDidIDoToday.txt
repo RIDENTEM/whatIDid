@@ -1217,3 +1217,4 @@ giving me a bunch of false errors.
 11/29/22: Traces
 11/30/22: traces
 12/1/22: traces
+12/2/22: setting up for art
