@@ -1225,3 +1225,5 @@ giving me a bunch of false errors.
 12/7/22: writing
 12/8/22: comms
 12/9/22: traces
+12/10/22: traces
+12/11/22: traces and comms
