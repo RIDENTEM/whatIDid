@@ -1242,3 +1242,4 @@ giving me a bunch of false errors.
 12/24/22: traces
 12/25/22: TRACES
 12/26/22: traces
+12/27/22: traces, debugging, adding art beats
