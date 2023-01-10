@@ -1255,3 +1255,4 @@ giving me a bunch of false errors.
 1/6/22: bugs
 1/7/22: audio beats
 1/8/22: cut up sfx
+1/9/22: rewrote ch1
