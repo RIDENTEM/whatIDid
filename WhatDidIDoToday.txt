@@ -1256,3 +1256,5 @@ giving me a bunch of false errors.
 1/7/22: audio beats
 1/8/22: cut up sfx
 1/9/22: rewrote ch1
+1/10/22: rewrote ch 2,3,4
+1/11/22: rewrites on ch5
