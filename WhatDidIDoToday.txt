@@ -1258,3 +1258,5 @@ giving me a bunch of false errors.
 1/9/22: rewrote ch1
 1/10/22: rewrote ch 2,3,4
 1/11/22: rewrites on ch5
+1/12/22: rewrites
+1/13/22: rewrote ch6 and added sfx
