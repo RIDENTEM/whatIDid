@@ -1260,3 +1260,4 @@ giving me a bunch of false errors.
 1/11/22: rewrites on ch5
 1/12/22: rewrites
 1/13/22: rewrote ch6 and added sfx
+1/14/22: rewrote ch7 8 and 9
