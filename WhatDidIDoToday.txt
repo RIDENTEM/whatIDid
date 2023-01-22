@@ -1266,3 +1266,5 @@ giving me a bunch of false errors.
 1/17/23: fixes and audio beats
 1/18/23: audio beats and created additional channels
 1/19/23: finished up 1.0 build
+1/20/23: research
+1/21/23: 
